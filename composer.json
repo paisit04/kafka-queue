@@ -1,5 +1,5 @@
 {
-    "name": "paisitj/kafka-queue",
+    "name": "paisit04/kafka-queue",
     "autoload": {
         "psr-4": {
             "Paisitj\\KafkaQueue\\": "src/"
